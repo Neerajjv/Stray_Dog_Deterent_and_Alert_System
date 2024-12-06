@@ -139,7 +139,7 @@ The system provides **real-time feedback** with the following key outcomes:
 ### Screenshot Example:
 
 ![Detection Screenshot](![Picture1](https://github.com/user-attachments/assets/d1143839-3490-4c6e-a0da-d83e03bea569)
-)
+
 
 This screenshot shows the live detection window with bounding boxes around detected dogs, and labels indicating whether the dog is aggressive.
 
