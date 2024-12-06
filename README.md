@@ -1,7 +1,5 @@
-Here's a detailed `README.md` template for your GitHub repository that includes instructions on how to set up and use the dog aggression detection system.
 
-
-# Dog Aggression Detection System
+# Stray Dog Deterent and Alert System
 
 ## Overview
 
@@ -141,27 +139,12 @@ The system provides **real-time feedback** with the following key outcomes:
 
 ### Screenshot Example:
 
-![Detection Screenshot](path_to_screenshot)
+![Detection Screenshot](![Picture1](https://github.com/user-attachments/assets/d1143839-3490-4c6e-a0da-d83e03bea569)
+)
 
 This screenshot shows the live detection window with bounding boxes around detected dogs, and labels indicating whether the dog is aggressive.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 If you encounter any issues or need further assistance, feel free to open an issue on the GitHub repository. Enjoy using the Dog Aggression Detection System!
 ```
-
-### Key Sections in the README:
-
-1. **Installation**: Provides the steps for setting up the environment and installing dependencies.
-2. **Prerequisites**: Lists the necessary software and accounts (e.g., Twilio, Python, YOLOv8 model).
-3. **Setup Instructions**: Describes how to configure the models and Twilio account.
-4. **Running the Code**: Explains how to start the program and what to expect during execution.
-5. **File Structure**: Provides an overview of the project’s folder structure.
-6. **Configuration**: Shows how to configure `data.yaml` and `.env` files.
-7. **Results**: Explains the expected output from the system and how to include results screenshots.
-
-You can replace the placeholders in the results section with actual screenshots or any further observations from testing. Let me know if you need further adjustments!
