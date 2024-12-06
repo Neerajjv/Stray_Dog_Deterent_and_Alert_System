@@ -1,6 +1,6 @@
 Here's a detailed `README.md` template for your GitHub repository that includes instructions on how to set up and use the dog aggression detection system.
 
-```markdown
+
 # Dog Aggression Detection System
 
 ## Overview
