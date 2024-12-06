@@ -25,7 +25,7 @@ This project implements a **real-time dog aggression detection system** using co
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/dog-aggression-detection.git
+   git clone [https://github.com/yourusername/dog-aggression-detection.git](https://github.com/Rafael-ZP/Stray_Dog_Deterent_and_Alert_System.git)
    cd dog-aggression-detection
    ```
 
