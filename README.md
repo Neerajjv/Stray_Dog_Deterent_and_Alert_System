@@ -20,7 +20,6 @@ This project implements a **real-time dog aggression detection system** using co
 - [File Structure](#file-structure)
 - [Configuration](#configuration)
 - [Results](#results)
-- [License](#license)
 
 ## Installation
 
